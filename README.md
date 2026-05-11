@@ -525,14 +525,7 @@ FastLanguageModel.for_inference(model)
 
 ---
 
-## 📄 Giấy Phép
-
-Dự án phục vụ mục đích học thuật.
-
-Các văn bản luật sử dụng là tài liệu công khai của Nhà nước Việt Nam.
 
 ---
 
-<p align="center">
-  <i>Xây dựng với ❤️ để hỗ trợ tra cứu pháp luật tài chính Việt Nam</i>
-</p>
+
