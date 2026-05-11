@@ -1,6 +1,5 @@
 # ⚖️ Hệ Thống Hỏi Đáp Pháp Luật Tài Chính Việt Nam
 
-> **Dự án cuối kỳ – Môn Nhập môn Xử lý Ngôn ngữ Tự nhiên | Đề tài 1**
 >
 > Xây dựng hệ thống hỏi đáp tiếng Việt trên miền tri thức **Luật Tài chính**, sử dụng **RAG (Retrieval-Augmented Generation)** kết hợp **Fine-tuning LLM** bằng QLoRA.
 
