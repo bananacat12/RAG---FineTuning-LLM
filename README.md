@@ -14,7 +14,6 @@
 - [Pipeline RAG](#-pipeline-rag)
 - [Thực Nghiệm & Đánh Giá](#-thực-nghiệm--đánh-giá)
 - [Kết Quả](#-kết-quả)
-- [Demo](#-demo)
 - [Cấu Trúc Thư Mục](#-cấu-trúc-thư-mục)
 - [Hướng Dẫn Cài Đặt & Chạy](#-hướng-dẫn-cài-đặt--chạy)
 - [Yêu Cầu Hệ Thống](#-yêu-cầu-hệ-thống)
